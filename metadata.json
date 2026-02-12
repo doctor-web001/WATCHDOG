@@ -1,0 +1,5 @@
+{
+  "name": "WEBWORK WATCHDOG",
+  "description": "A high-efficiency, explainable (XAI) multi-class URL detection system designed to address research gaps in zero-day robustness and deployment scalability.",
+  "requestFramePermissions": []
+}
